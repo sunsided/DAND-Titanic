@@ -1,6 +1,6 @@
 # Kaggle Titanic Dataset Analysis
 
-The main file is the `titanic.ipynb` Jupyter Notebook.
+The main file is the [`titanic.ipynb`](titanic.ipynb) Jupyter Notebook.
 
 ## Additional sources
 
